@@ -1,0 +1,37 @@
+[
+    {
+        "source": "Delhi",
+        "destination": "jaipur",
+        "indigo": "₹5000",
+        "airAsia": "₹7000",
+        "vistara": "₹3000"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "indigo": "₹2000",
+        "airAsia": "₹4500",
+        "vistara": "₹3500"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Banglore",
+        "indigo": "₹1800",
+        "airAsia": "₹4500",
+        "vistara": "₹5600"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Indore",
+        "indigo": "₹5300",
+        "airAsia": "₹2700",
+        "vistara": "₹6200"
+    },
+    {
+        "source": "Delhi",
+        "destination": "Bhopal",
+        "indigo": "₹1500",
+        "airAsia": "₹3200",
+        "vistara": "₹3700"
+    }
+]
